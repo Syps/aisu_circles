@@ -1,0 +1,5 @@
+.idea
+*.osu
+tmp/*
+.DS_Store
+.pytest_cache/
